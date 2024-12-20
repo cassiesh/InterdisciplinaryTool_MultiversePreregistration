@@ -68,12 +68,20 @@ The app will be made using ShinyApp in R (https://shiny.posit.co/), and will be 
 ## References
 
 Botvinik-Nezer, R., Holzmeister, F., Camerer, C. F., Dreber, A., Huber, J., Johannesson, M., ... & Rieck, J. R. (2020). Variability in the analysis of a single neuroimaging dataset by many teams. Nature, 582(7810), 84-88.
+
 Del Giudice, M., & Gangestad, S. W. (2021). A traveler’s guide to the multiverse: Promises, pitfalls, and a framework for the evaluation of analytic decisions. Advances in Methods and Practices in Psychological Science, 4(1), 2515245920954925.
+
 Gelman, A., & Loken, E. (2013). The garden of forking paths: Why multiple comparisons can be a problem, even when there is no “fishing expedition” or “p-hacking” and the research hypothesis was posited ahead of time. Department of Statistics, Columbia University, 348, 1-17.
+
 Hoffmann, S., Schönbrodt, F., Elsas, R., Wilson, R., Strasser, U., & Boulesteix, A. L. (2021). The multiplicity of analysis strategies jeopardizes replicability: lessons learned across disciplines. Royal Society Open Science, 8(4), 201925
+
 Open Science Collaboration. (2015). Estimating the reproducibility of psychological science. Science, 349(6251), aac4716.
+
 Paul, K.*, Short, C. A.*, Beauducel, A., Carsten, H. P., Härpfer, K., Hennig, J., ... & Wacker, J. (2022). The methodology and dataset of the coscience eeg-personality project–a large-scale, multi-laboratory project grounded in cooperative forking paths analysis. Personality Science, 3, 1-26. 
 *co-first authors
+
 Schneck, A. (2023). Are most published research findings false? Trends in statistical power, publication selection bias, and the false discovery rate in psychology (1975–2017). Plos One, 18(10), e0292717.
+
 Simonsohn, U., Simmons, J. P., & Nelson, L. D. (2020). Specification curve analysis. Nature Human Behaviour, 4(11), 1208-1214.
+
 Steegen, S., Tuerlinckx, F., Gelman, A., & Vanpaemel, W. (2016). Increasing transparency through a multiverse analysis. Perspectives on Psychological Science, 11(5), 702-712.
