@@ -2,14 +2,15 @@
 
 Funded by: An early career researcher ‘Treasure Box’ project, of the DFG funded priority program ‘META-REP’ (SPP 2317).
 
-Conceptualisation and funding acquirement: Cassie Ann Short1, Andreas Schneck2
-App development, supervision and advice: Cassie Ann Short1, Maximilian Frank3, Yusuf Coşku Inceler1, Andrea Hildebrandt1
+Conceptualisation and funding acquirement: Cassie Ann Short<sup>1</sup>, Andreas Schneck<sup>2</sup>
 
-1Department of Psychology, School of Medicine and Health Sciences, Carl von Ossietzky Universität Oldenburg, Germany
+App development, supervision and advice: Cassie Ann Short<sup>1</sup>, Maximilian Frank<sup>3</sup>, Yusuf Coşku Inceler<sup>1</sup>, Andrea Hildebrandt<sup>1</sup>
 
-2Department of Sociology, Faculty of Social Sciences, Ludwig-Maximilians-Universität München, München, Germany
+<sup>1</sup>Department of Psychology, School of Medicine and Health Sciences, Carl von Ossietzky Universität Oldenburg, Germany
 
-3Department of Psychology, Faculty of Psychology and Pedagogy, Ludwig-Maximilians-Universität München, München, Germany
+<sup>2</sup>Department of Sociology, Faculty of Social Sciences, Ludwig-Maximilians-Universität München, München, Germany
+
+<sup>3</sup>Department of Psychology, Faculty of Psychology and Pedagogy, Ludwig-Maximilians-Universität München, München, Germany
 
 ## 1.	Background and Objective
 
